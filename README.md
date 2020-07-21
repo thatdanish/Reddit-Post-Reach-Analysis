@@ -1,3 +1,3 @@
 ## Reddit POST Reach
 
-*This space will updated regularly*
+*This space will be updated regularly*
