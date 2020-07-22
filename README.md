@@ -2,4 +2,4 @@
 
 *Aplha Deep Learning Model*
 **It's Not The Final Model For Deployment**
-*under production*
+*under development*
