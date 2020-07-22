@@ -1,3 +1,5 @@
 ## Reddit POST Reach
 
-*This space will be updated regularly*
+*Aplha Deep Learning Model*
+**It's Not The Final Model For Deployment**
+*under production*
