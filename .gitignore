@@ -1,5 +1,6 @@
 /.ipynb_checkpoints
 /tmp_weights
-/Models
 column_trans.sav
 dataset/.ipynb_checkpoints/
+Models/final_model.h5
+Models/final_model.json
