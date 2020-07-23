@@ -10,7 +10,7 @@
                     * Binarizer (from Sklearn's preprocessing)
                     * StandardScaler (from Sklearn's preprocessing)
 
-**Data Preprocessing steps are saved as .sav file.(column_trans.2)**
+**Data Preprocessing steps are saved as .sav file.(column_trans.2)**  
 **Polynomial Transformation in also saved as .sav file.(Models/poly_trans.sav)**
 
 #### Modules and Libraries required:
@@ -25,9 +25,9 @@
 * Jupyter Notebook
 
 #### Model Deployment:
-Some thing come here*  
-under devlopment*
-this space will be updated regularly*
+Some thing come here  
+under devlopment  
+this space will be updated regularly
 
 #### Mode Save:
 * Model is saved as save as .sav file. (Models/final_model.sav)
