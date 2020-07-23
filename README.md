@@ -25,9 +25,9 @@
 * Jupyter Notebook
 
 #### Model Deployment:
-Some thing come here  
-under devlopment  
-this space will be updated regularly
+*Some thing come here*  
+*under devlopment*  
+*this space will be updated regularly*
 
 #### Mode Save:
 * Model is saved as save as .sav file. (Models/final_model.sav)
