@@ -2,13 +2,13 @@
 
 #### Model :
 * It's a ML model and has the following:
-                                1) Polynomial Feature (from Sklearn's preprocessin)
-                                2) LassoLars (from Sklearn's linear_model)
-                                3) Hyperparameters : alpha = 0.021,max_iter=150
+                                - Polynomial Feature (from Sklearn's preprocessin)
+                                - LassoLars (from Sklearn's linear_model)
+                                - Hyperparameters : alpha = 0.021,max_iter=150
 * Data Preprocessing:
-                    1) LabelEncoder (from Sklearn's preprocessing)
-                    2) Binarizer (from Sklearn's preprocessing)
-                    3) StandardScaler (from Sklearn's preprocessing)
+                    - LabelEncoder (from Sklearn's preprocessing)
+                    - Binarizer (from Sklearn's preprocessing)
+                    - StandardScaler (from Sklearn's preprocessing)
 
 **Data Preprocessing steps are saved as .sav file.(column_trans.2)**  
 **Polynomial Transformation in also saved as .sav file.(Models/poly_trans.sav)**
